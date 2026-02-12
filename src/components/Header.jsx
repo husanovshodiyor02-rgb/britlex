@@ -56,7 +56,7 @@ const Header = () => {
             <option value="uz">Uz</option>
             <option value="ru">Ru</option>
           </select>
-          <button className="w-40 h-12.5 rounded-[5px] border-2 border-solid border-[#263238] font-normal text-xl text-black">
+          <button className="w-40 py-1 px-2 rounded-[5px] border-2 border-solid border-[#263238] font-normal text-xl text-black">
             {t("Let’s Talk")}
           </button>
         </div>
